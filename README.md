@@ -3,6 +3,7 @@ This is a group final project of Data Visualization subject. The task was to app
 
 # About the dataset
 This dataset is uploaded on Kaggle, named "Starbucks Customer Survey". We used the data that have not been encoded, as we figured out that the encoded one was incorrect. This dataset is composed of a survey questions of over 100 respondents for their buying behavior at Starbucks. The survey includes the demographic information about customers, their consuming behavior at Starbucks, and their ratings on various criteria related to facilities and features of Starbucks. With this dataset, we aim to predict the loyalty of each customers.
+
 Here is the Kaggle link of the data: https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey+encode+cleaned.csv
 
 ## Workflow
